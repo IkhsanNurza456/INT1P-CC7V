@@ -34,7 +34,7 @@ def main():
     print("  |CS   '--'     | ")
     print("{}  '--------------'----------{}------------------.  ").format(r,w)
     print("{}  | {}Author  : {}Ikhsan Nurza  {}| {}INDO{}N{}{}ESIA         | ").format(r,w,r,w,r,ir,reset,w)
-    print("{}  | {}Youtube : {}Ikhsan Nurza {}| {}+62xxxxxxxxxxx {}|").format(r,w,w,w,lgray,w)
+    print("{}  | {}Youtube : {}Gw Gak Punya !!! {}| {}+62xxxxxxxxxxx {}|").format(r,w,w,w,lgray,w)
     print("{}  '------------------------------------{}-------'  ").format(r,w)
     print ("  {}[ 1 ] {}Italy").format(r,w)
     print ("  {}[ 2 ] {}Indonesia").format(r,w)
