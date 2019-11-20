@@ -1,3 +1,3 @@
 # INT1P-CC7V
 
-# Created By : Ikhsan Nurza
+# Created By : Ikhsan
